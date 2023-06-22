@@ -1,0 +1,26 @@
+[data-accordion-item] {
+  margin-bottom: .875em;
+}
+
+[data-accordion-header] {
+  padding: 1em .75em;
+  border: 1px solid #eee;
+  border-radius: 2px;
+  cursor: pointer;
+  transition: .3s;
+
+  &:hover {
+    box-shadow: 0 0 5px 1px #eee;
+  }
+}
+
+[data-accordion-wrapper] {
+  overflow: hidden;
+  height: 0;
+}
+
+[data-accordion-body] {
+  padding: 1em;
+  border: 1px solid #eee;
+  border-top: 0;
+}

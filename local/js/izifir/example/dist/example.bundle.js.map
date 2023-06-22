@@ -1,0 +1,1 @@
+{"version":3,"file":"example.bundle.js","sources":["../src/example.js"],"sourcesContent":["import './style/style.scss'\n\nexport class Example\n{\n\tconstructor()\n\t{\n\t}\n}"],"names":["constructor"],"mappings":"uDAEO,MAENA"}

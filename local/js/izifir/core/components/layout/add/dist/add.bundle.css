@@ -1,0 +1,21 @@
+[data-fixed] {
+  position: fixed;
+  z-index: 1030;
+  left: 0;
+  right: 0; }
+
+[data-fixed~="top"] {
+  top: 0; }
+
+[data-fixed~="bottom"] {
+  bottom: 0; }
+
+[data-sticky] {
+  position: sticky;
+  z-index: 1020; }
+
+[data-sticky~="top"] {
+  top: 0; }
+
+[data-sticky~="bottom"] {
+  bottom: 0; }

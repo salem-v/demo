@@ -1,0 +1,1 @@
+{"version":3,"file":"advantage.bundle.js","sources":["../src/advantage.js"],"sourcesContent":["import './style/style.scss'\n\nexport class Advantage\n{\n\tconstructor()\n\t{\n\t}\n}"],"names":["constructor"],"mappings":"yDAEO,MAENA"}

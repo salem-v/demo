@@ -1,0 +1,1 @@
+{"version":3,"file":"add.bundle.js","sources":["../src/add.js"],"sourcesContent":["import './style/style.scss'\n\nexport class Add\n{\n\tconstructor()\n\t{\n\t}\n}"],"names":["constructor"],"mappings":"mMAEO,MAENA"}

@@ -1,0 +1,6 @@
+<?php
+
+$MESS['IZI.MOD.W_FORMS.LIST.PAGE_TITLE'] = 'Веб-формы';
+$MESS['IZI.MOD.W_FORMS.LIST.COLUMN_NAME_CONTENT'] = 'Наименование';
+$MESS['IZI.MOD.W_FORMS.LIST.ADD_NEW_BUTTON'] = 'Создать форму';
+$MESS['IZI.MOD.W_FORMS.LIST.ACTION_EDIT'] = 'Редактировать';

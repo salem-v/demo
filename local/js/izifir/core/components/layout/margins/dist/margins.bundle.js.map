@@ -1,0 +1,1 @@
+{"version":3,"file":"margins.bundle.js","sources":["../src/margins.js"],"sourcesContent":["import './style/style.scss'\n\nexport class Margins\n{\n\tconstructor(options = {name: 'Margins'})\n\t{\n\t}\n}"],"names":["constructor","options","name"],"mappings":"uMAEO,MAENA,YAAYC,EAAU,CAACC,KAAM"}

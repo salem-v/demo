@@ -1,0 +1,3 @@
+<?php
+
+$MESS['IZI.MOD.W_FORMS.ADMIN.MENU_WEBFORMS_TEXT'] = 'Веб-формы';
